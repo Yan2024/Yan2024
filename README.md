@@ -28,4 +28,4 @@ Gerar impacto positivo na rotina dos meus companheiros por meio de automatizaç�
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yan2024&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ## Minhas contribuições 
-Serão postadas em breve
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yan2024&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yan2024/dio-lab-open-source)
