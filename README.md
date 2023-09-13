@@ -1,13 +1,9 @@
 # **👋 Olá, Mundo!** **Meu nome é Yan Cavalcante**                             
-📊 Apaixonado por Análise e Ciência de Dados 🧪📈
+📊 Apaixonado por resolver problemas utilizando tecnologia! 🧪📈
 
-Amo desvendar insights ocultos nos dados e transformá-los em informação. Minha jornada gira em torno da descoberta, visualização e interpretação de padrões que venham a impulsionar decisões inteligentes!
-
-🤖 Automatização de Processos? É comigo mesmo! 🤓🔧
-
-Gerar impacto positivo na rotina dos meus companheiros por meio de automatização de tarefas me encanta! Cada sorriso ou palavras de gratidão recebidos são o combustível para persistir evoluindo constantemente no que eu faço.
+Minha jornada até aqui tem se concentrado mais na área de dados, já que sou devoto da arte de desvendar insights ocultos num emaranhado destes. Porém, com o apresso que vim sentindo cada vez mais pela tecnologia, decidi mergulhar de cabeça e explorar outras possibilidades nesse universo fantástico, e cá estou eu, cursando uma nova graduação: Análise e Desenvolvimento de Sistemas.
  
- Eae, que tal nos conectarmos? 
+Eae, que tal nos conectarmos? 
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yancavalcante27/)
