@@ -1,7 +1,7 @@
 # **👋 Olá, Mundo!** **Meu nome é Yan Cavalcante**                             
 📊 Apaixonado por resolver problemas utilizando tecnologia! 🧪📈
 
-Minha jornada até aqui tem se concentrado mais na área de dados, já que sou devoto da arte de desvendar insights ocultos num emaranhado destes. Porém, com o apresso que vim sentindo cada vez mais pela tecnologia, decidi mergulhar de cabeça e explorar outras possibilidades nesse universo fantástico, e cá estou eu, cursando uma nova graduação: Análise e Desenvolvimento de Sistemas.
+Minha jornada até aqui tem se concentrado mais na área de dados, já que sou devoto da arte de desvendar insights ocultos num emaranhado destes. Porém, com o apreço que vim sentindo cada vez mais pela tecnologia, decidi mergulhar de cabeça e explorar outras possibilidades nesse universo fantástico, e cá estou eu, cursando uma nova graduação: Análise e Desenvolvimento de Sistemas.
  
 Eae, que tal nos conectarmos? 
 
