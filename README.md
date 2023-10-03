@@ -16,11 +16,7 @@ Eae, que tal nos conectarmos?
 ![Git](https://img.shields.io/badge/GIT-F05639?style=for-the-badge&logo=git&logoColor=black)
 ## Bibliotecas e Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-1A0F59?style=for-the-badge&logo=pandas)
-![numpy](https://img.shields.io/badge/Numpy-53AED1?style=for-the-badge&logo=numpy)
-![plotly](https://img.shields.io/badge/Plotly-18A0FF?style=for-the-badge&logo=plotly)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F89C3F?style=for-the-badge&logo=scikitlearn&logoColor=blue)
 ![pyautogui](https://img.shields.io/badge/pyautogui-black?style=for-the-badge&logo=python)
-![matplotlib](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logo=python)
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yan2024&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ## Minhas contribuições 
