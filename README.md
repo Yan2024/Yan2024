@@ -14,8 +14,9 @@ Eae, que tal nos conectarmos?
 ![Excel](https://img.shields.io/badge/Excel-1c7a27?style=for-the-badge&logo=microsoft-excel)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-AC2329?style=for-the-badge&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/GIT-F05639?style=for-the-badge&logo=git&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=264CE4)
+![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
+![Javascript](https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript)
 ## Libraries and Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-1A0F59?style=for-the-badge&logo=pandas)
 ![pyautogui](https://img.shields.io/badge/pyautogui-black?style=for-the-badge&logo=python)
