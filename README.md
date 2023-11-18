@@ -1,9 +1,7 @@
-# **👋 Olá, Mundo!** **Meu nome é Yan Cavalcante**                             
-📊 Apaixonado por resolver problemas utilizando tecnologia! 🧪📈
-
-Minha jornada até aqui tem se concentrado mais na área de dados, já que sou devoto da arte de desvendar insights ocultos num emaranhado destes. Porém, com o apreço que vim sentindo cada vez mais pela tecnologia, decidi mergulhar de cabeça e explorar outras possibilidades nesse universo fantástico, e cá estou eu, cursando uma nova graduação: Análise e Desenvolvimento de Sistemas.
+# **👋 Olá, Mundo!** 
+**Meu nome é Yan Cavalcante**                             
  
-Eae, que tal nos conectarmos? 
+Minha jornada iniciou-se na área de dados, porém, com o apreço que vim sentindo cada vez mais pela tecnologia e o potencial intrínseco a ela, decidi cursar Análise e Desenvolvimento de Sistemas, mergulhando de cabeça e explorando novas possibilidades no universo tech. Nesse movimento, me encontrei em Front-end, e alguns projetos relacionados estão constantes aqui em meu perfil. Será um prazer receber seu feedback e da mesma forma, me encontro disponível para deixar o meu.
 
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/yancavalcante27/)
