@@ -13,6 +13,7 @@ Minha jornada iniciou-se na área de dados, porém, com o apreço que vim sentin
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-AC2329?style=for-the-badge&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/GIT-F05639?style=for-the-badge&logo=git&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=264CE4)
+![SASS](https://img.shields.io/badge/SASS-CC6698?style=for-the-badge&logo=sass&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 ![Javascript](https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript)
 ## Libraries and Frameworks
