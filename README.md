@@ -20,7 +20,7 @@ Minha jornada iniciou-se na área de dados, porém, com o apreço que vim sentin
 ![React](https://img.shields.io/badge/React-1A0F59?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan2024&show_icons=true&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan2024&show_icons=true&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFE&hide_title=true)
 ## Most Used Technologies
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yan2024&layout=compact&bg_color=000&border_color=30A3DC&text_color=FFF&hide_title=true)
 ## Contributions
