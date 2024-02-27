@@ -16,8 +16,8 @@ Minha jornada iniciou-se na área de dados, porém, com o apreço que vim sentin
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 ![Javascript](https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript)
 ## Libraries and Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-1A0F59?style=for-the-badge&logo=pandas)
-![pyautogui](https://img.shields.io/badge/pyautogui-black?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-1A0F59?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yan2024&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ## Most Used Technologies
