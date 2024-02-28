@@ -1,5 +1,5 @@
 # Olá, Mundo! 👋          
-## Me chamo Yan Cavalcante e hoje me vejo um aficionado por desenvolvimento web!
+## Me chamo Yan Cavalcante 👨‍💻
 #### Desde a infância, sempre gostei do universo tech, porém, acabei não seguindo por esse caminho enquanto profissional, um erro que hoje estou corrigindo.
 #### Minha jornada iniciou-se na área de dados, no entanto, a curiosidade e o desejo de me aprofundar levaram-me à decisão de cursar Análise e Desenvolvimento de Sistemas. Nesse movimento, me encontrei no front-end, porém, num médio prazo, pretendo levar meus projetos a um novo nível, introduzindo o back-end nessas novas aplicações.
 #### Abaixo, segue um resumo a respeito do meu aprendizado e progresso 📈✨
